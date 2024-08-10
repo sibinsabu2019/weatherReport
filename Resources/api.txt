@@ -1,0 +1,1 @@
+url:http://api.weatherapi.com/v1/forecast.json?key=d7790e8c1be944229a8170753240808&q=mumbai&days=1&aqi=no&alerts=no
